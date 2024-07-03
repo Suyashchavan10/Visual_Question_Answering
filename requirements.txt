@@ -1,0 +1,13 @@
+datasets
+torch
+transformers
+torchinfo
+numpy
+pandas
+scipy
+scikit-learn
+pillow
+peft
+torchmetrics
+torchvision
+pprint
